@@ -1,0 +1,1 @@
+frameworks/base/data/sounds/ringtones/ogg/Pyxis.ogg:system/media/audio/ringtones/Pyxis.ogg
